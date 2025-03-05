@@ -1,0 +1,36 @@
+.resource-card {
+  width: 200px; /* Same as Tools card */
+  padding: 20px;
+  border: 1px solid #467091;
+  border-radius: 10px;
+  background-color: #f8efe5;
+  text-align: left;
+  text-decoration: none;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px; /* Optional fixed height for uniformity */
+}
+
+.resource-card.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.resource-content {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.resource-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.resource-title {
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 0;
+}

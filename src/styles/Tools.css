@@ -1,0 +1,44 @@
+.tool-card {
+  width: 200px;
+  height: 280px; /* Fixed height */
+  padding: 20px;
+  border: 1px solid #467091;
+  border-radius: 10px;
+  background-color: #f8efe5;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.tool-logo {
+  width: 120px; /* Bigger icon */
+  height: 120px;
+  margin: 0 auto 10px;
+  object-fit: contain;
+}
+
+.tool-description {
+  flex-grow: 1;
+  line-height: 1.5;
+  font-size: 0.9rem;
+  margin: 10px 0;
+}
+
+.tool-button-wrapper {
+  margin-top: auto; /* Pushes the button to the bottom */
+}
+
+.tool-button {
+  padding: 8px 20px;
+  background-color: #467091;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.tool-button.disabled {
+  background-color: #ccc;
+  pointer-events: none;
+}
