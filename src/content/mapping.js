@@ -49,17 +49,17 @@ export const tools = [
   {
     logo: design,
     description:
-      "This tool allows stakeholders to generate personas from public datasets focusing on online harms and bias in digital services.",
-    link: "https://primetoolkit.co.uk",
+      "These guidelines help developers and managers of digital services to assess if these services meet the requirements of ME  communities.",
+    link: "https://www.primecommunities.online/design-guidelines",
     button_text: "Read More",
-    disabled: true,
+    disabled: false,
   },
 ];
 
 export const people = [
   {
     image: lynne,
-    title: "Prof Lynne Baille",
+    title: "Prof Lynne Baillie",
     designation:
       "Co-Investigator | Professor of Computer Science | Heriot Watt University",
     link: "https://scholar.google.com/citations?hl=en&user=qusCPxoAAAAJ",
@@ -169,9 +169,9 @@ export const resources = [
   },
   {
     icon: policy,
-    title: "Policy Briefing ",
-    link: "https://www.primecommunities.online/academic-publications",
-    disabled: true,
+    title: "Policy Briefings ",
+    link: "https://www.primecommunities.online/policy-briefs",
+    disabled: false,
   },
   {
     icon: code,

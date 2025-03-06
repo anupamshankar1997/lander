@@ -11,20 +11,35 @@ const Lander = () => {
       <Header />
 
       <div className="page-container">
+        <h1>PRIME Technical Toolkit</h1>
         <section className="section-wrapper">
           <p className="intro-text">
             PRIME (Protecting Minority Ethnic Communities Online) is a
-            UKRI-funded (EP/W032333/1) 3-year project (2022-2025). Prototypes
-            developed under PRIME focus on either:
-            <br />
-            - Providing more privacy and security to minoritised ethnic
-            communities while using digital services
-            <br />- Enabling stakeholders to better understand the needs and
-            requirements of such communities
+            UKRI-funded (EP/W03235X/1, EP/W032333/1, EP/W032341/1, EP/
+            W032058/1, EP/W032082/1) 3-year project (2022-2025). The project
+            aims to improve understanding of Minority Ethnic (ME) communities'
+            online experiences, particularly in accessing key services related
+            to <strong>health, social housing, and energy.</strong> It seeks to
+            identify the types and nature of <strong>online harms</strong> these
+            individuals may face and recommend solutions to mitigate them
+            through privacy-enhancing technologies and responsible AI. These
+            solutions are part of the PRIME Technical Toolkit. Various tools,
+            prototypes, guidelines included in this toolkit focus on either:
+            <br></br>
+            <ul>
+              <li>
+                Providing more privacy and security to minoritised ethnic
+                communities while using digital services
+              </li>
+              <li>
+                Enabling stakeholders to better understand the needs and
+                requirements of such communities
+              </li>
+            </ul>
           </p>
         </section>
         <section>
-          <h2>Our Prototypes</h2>
+          <h2>Prototypes and Guidelines</h2>
           <div className="cards-container">
             {tools.map((tool, index) => (
               <ToolCard key={index} tool={tool} />
@@ -42,7 +57,7 @@ const Lander = () => {
         </section>
 
         <section>
-          <h2>People</h2>
+          <h2>People Behind the Toolkit</h2>
           <div className="people-container">
             {people.map((person, index) => (
               <PeopleCard key={index} person={person} />
@@ -53,8 +68,18 @@ const Lander = () => {
           <h2>Contact Us</h2>
           <p id="footer">
             For any queries or for integrating your data in our prototypes,
-            please contact: Mehdi Rizvi (s.rizvi@hw.ac.uk) or Lynne Baille
-            (l.baillie@hw.ac.uk)
+            please contact:
+            <br />
+            <ul>
+              <li>
+                Mehdi Rizvi (
+                <a href="mailto:s.rizvi@hw.ac.uk">s.rizvi@hw.ac.uk</a>) or
+              </li>
+              <li>
+                Lynne Baillie (
+                <a href="mailto:l.baillie@hw.ac.uk">l.baillie@hw.ac.uk</a>)
+              </li>
+            </ul>
           </p>
         </section>
       </div>
