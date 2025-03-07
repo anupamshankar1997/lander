@@ -165,13 +165,13 @@ export const resources = [
     icon: researchpaper,
     title: "Research Papers",
     link: "https://www.primecommunities.online/academic-publications",
-    disabled: false,
+    disabled: true,
   },
   {
     icon: policy,
     title: "Policy Briefings ",
     link: "https://www.primecommunities.online/policy-briefs",
-    disabled: false,
+    disabled: true,
   },
   {
     icon: code,
