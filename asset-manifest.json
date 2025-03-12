@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.08628d4a.css",
-    "main.js": "/static/js/main.07757406.js",
+    "main.js": "/static/js/main.5fa419b0.js",
     "static/js/453.acf72754.chunk.js": "/static/js/453.acf72754.chunk.js",
     "static/media/vijaya-b-jagadeesan.png": "/static/media/vijaya-b-jagadeesan.31069a608a8c55eb94a5.png",
     "static/media/mehdi-rizvi.png": "/static/media/mehdi-rizvi.643c9f0189d04b602a1e.png",
@@ -11,25 +11,26 @@
     "static/media/sebati-ghosh.jpg": "/static/media/sebati-ghosh.8404db057fa1c9208dc9.jpg",
     "static/media/wei-pang.jpg": "/static/media/wei-pang.9ddfb67e12727ac04888.jpg",
     "static/media/yuan-yingfang.jpg": "/static/media/yuan-yingfang.1b4568a7c4e334c8de84.jpg",
+    "static/media/york_white.png": "/static/media/york_white.64fc4e6fbeed2dd09810.png",
     "static/media/lynne-baillie.jpg": "/static/media/lynne-baillie.8dcff9092e3fb45fda01.jpg",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/charles-dodd.jpeg": "/static/media/charles-dodd.1bf506ca0e659aa9f19f.jpeg",
     "static/media/paulina-lewinska.jpg": "/static/media/paulina-lewinska.b47d057e9c1f5ada198d.jpg",
     "static/media/prime.png": "/static/media/prime.33ab922b8702da9a85e5.png",
     "static/media/favour-jacob.jpeg": "/static/media/favour-jacob.d9b474d7a06b8cb7fe42.jpeg",
-    "static/media/logo_GOAAT.png": "/static/media/logo_GOAAT.af2acf07b8bc7dec3797.png",
     "static/media/logo_personaCreator.png": "/static/media/logo_personaCreator.1ca63be0513dbde8edfe.png",
+    "static/media/GOAAT_v2.png": "/static/media/GOAAT_v2.1b9a5c1d134c156625d5.png",
     "static/media/ukri.png": "/static/media/ukri.95cfe7233214d44a4e64.png",
     "static/media/hwu1.png": "/static/media/hwu1.b80b2182b91dfe79800d.png",
     "static/media/personaCreator.png": "/static/media/personaCreator.217278e026ab67700ff2.png",
     "static/media/logo_IRESHA.png": "/static/media/logo_IRESHA.bbfd5f05be92eb1b6d56.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.08628d4a.css.map": "/static/css/main.08628d4a.css.map",
-    "main.07757406.js.map": "/static/js/main.07757406.js.map",
+    "main.5fa419b0.js.map": "/static/js/main.5fa419b0.js.map",
     "453.acf72754.chunk.js.map": "/static/js/453.acf72754.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08628d4a.css",
-    "static/js/main.07757406.js"
+    "static/js/main.5fa419b0.js"
   ]
 }
