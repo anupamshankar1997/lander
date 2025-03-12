@@ -1,6 +1,6 @@
 import personacreator from "../assets/logo_personaCreator.png";
 import iresha from "../assets/logo_IRESHA.png";
-import goaat from "../assets/logo_GOAAT.png";
+import goaat from "../assets/GOAAT_v2.png";
 import design from "../assets/logo_designGuidelines.png";
 import lynne from "../assets/lynne-baillie.jpg";
 import wei from "../assets/wei-pang.jpg";
@@ -164,14 +164,14 @@ export const resources = [
   {
     icon: researchpaper,
     title: "Research Papers",
-    link: "https://www.primecommunities.online/academic-publications",
-    disabled: true,
+    link: "https://github.com/thePrimeProject/PRIME_CS_publications/blob/main/README.md",
+    disabled: false,
   },
   {
     icon: policy,
     title: "Policy Briefings ",
-    link: "https://www.primecommunities.online/policy-briefs",
-    disabled: true,
+    link: "https://pure.hw.ac.uk/ws/portalfiles/portal/147331686/PRIME_Technical_Policy_Briefing.pdf",
+    disabled: false,
   },
   {
     icon: code,

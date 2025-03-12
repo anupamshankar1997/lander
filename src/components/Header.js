@@ -4,7 +4,7 @@ import hwu from "../assets/hwu1.png";
 import prime from "../assets/prime.png";
 import ukri from "../assets/ukri.png";
 import "../styles/Header.css";
-import york from "../assets/logo.svg";
+import york from "../assets/york_white.png";
 
 const Header = () => {
   const headerRef = useRef(null);
