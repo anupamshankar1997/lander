@@ -72,12 +72,12 @@ const Lander = () => {
             <br />
             <ul>
               <li>
-                Mehdi Rizvi (
-                <a href="mailto:s.rizvi@hw.ac.uk">s.rizvi@hw.ac.uk</a>) or
+                Prof Lynne Baillie (
+                <a href="mailto:l.baillie@hw.ac.uk">l.baillie@hw.ac.uk</a>)
               </li>
               <li>
-                Lynne Baillie (
-                <a href="mailto:l.baillie@hw.ac.uk">l.baillie@hw.ac.uk</a>)
+                Dr Mehdi Rizvi (
+                <a href="mailto:s.rizvi@hw.ac.uk">s.rizvi@hw.ac.uk</a>) or
               </li>
             </ul>
           </p>

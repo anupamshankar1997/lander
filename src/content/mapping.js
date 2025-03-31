@@ -20,6 +20,7 @@ import researchpaper from "../assets/docs_32dp_5F6368_FILL0_wght400_GRAD0_opsz40
 import datasets from "../assets/dataset_32dp_5F6368_FILL0_wght400_GRAD0_opsz40.png";
 import code from "../assets/code_blocks_32dp_5F6368_FILL0_wght400_GRAD0_opsz40.png";
 import policy from "../assets/lab_profile_32dp_5F6368_FILL0_wght400_GRAD0_opsz40.png";
+import sharingguidelines from "../assets/sharingguidelines.png";
 
 export const tools = [
   {
@@ -51,6 +52,14 @@ export const tools = [
     description:
       "These guidelines help developers and managers of digital services to assess if these services meet the requirements of ME  communities.",
     link: "https://www.primecommunities.online/design-guidelines",
+    button_text: "Read More",
+    disabled: false,
+  },
+  {
+    logo: sharingguidelines,
+    description:
+      "These guidelines help researchers in ensuring privacy of respondents when releasing survey datasets publicly",
+    link: "https://docs.google.com/document/d/1ACJI22JyQ_0oAy47z7CrWwgmy8lCHsYyrhAeYdwjD2k/edit?usp=sharing",
     button_text: "Read More",
     disabled: false,
   },
